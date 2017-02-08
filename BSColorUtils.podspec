@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version = "1.0.0"
   spec.summary = "Color utilities to make dealing with UIColor easier."
   spec.homepage = "https://github.com/SlayterDev/BSColorUtils.git"
-  spec.license = { type: 'MIT', file: 'LICENSE' }
+  spec.license = { type: 'MIT', file: 'LICENSE.txt' }
   spec.authors = { "Bradley Slayter" => 'slayterdevelopment@gmail.com' }
 
   spec.platform = :ios, "8.0"
