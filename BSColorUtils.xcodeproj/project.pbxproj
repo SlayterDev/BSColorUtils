@@ -31,6 +31,7 @@
 		4163EDE31E4B7A1700E02E65 /* BSColorUtilsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BSColorUtilsTests.swift; sourceTree = "<group>"; };
 		4163EDE51E4B7A1700E02E65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4163EDEF1E4B7CBC00E02E65 /* BSColorUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BSColorUtils.swift; sourceTree = "<group>"; };
+		4163EDF11E4B89C600E02E65 /* BSColorUtils.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; fileEncoding = 4; path = BSColorUtils.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				4163EDD71E4B7A1700E02E65 /* BSColorUtils */,
 				4163EDE21E4B7A1700E02E65 /* BSColorUtilsTests */,
 				4163EDD61E4B7A1700E02E65 /* Products */,
+				4163EDF11E4B89C600E02E65 /* BSColorUtils.podspec */,
 			);
 			sourceTree = "<group>";
 		};

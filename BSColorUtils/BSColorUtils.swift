@@ -33,7 +33,7 @@ extension UIColor {
     ///
     /// - Parameter hexString: The hexstring to convert
     /// - Returns: A `UIColor` object representing the hex string
-    public class func withHex(hexString: String) -> UIColor {
+    public class func with(hex hexString: String) -> UIColor {
         var hexString = hexString
         if hexString.hasPrefix("#") {
             hexString = hexString.substring(from: hexString.index(after: hexString.startIndex))
