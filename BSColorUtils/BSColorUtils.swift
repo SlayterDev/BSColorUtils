@@ -40,7 +40,7 @@ extension UIColor {
         }
         
         // determine if we are dealing with single or double digit color strings
-        let digitCount = hexString.characters.count / 3
+        let digitCount = hexString.count / 3
         
         var redPart = hexString.substring(with: hexString.getStringRange(withStart: 0, end: digitCount))
         var greenPart = hexString.substring(with: hexString.getStringRange(withStart: digitCount, end: digitCount * 2))

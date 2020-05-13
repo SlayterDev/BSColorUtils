@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name = "BSColorUtils"
-  spec.version = "1.0.2"
+  spec.version = "1.0.3"
   spec.summary = "Color utilities to make dealing with UIColor easier."
   spec.homepage = "https://github.com/SlayterDev/BSColorUtils.git"
   spec.license = { type: 'MIT', file: 'LICENSE.txt' }
